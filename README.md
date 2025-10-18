@@ -21,7 +21,7 @@ This analysis is designed to answear the following business question :
 
 ## Dashboard 
 <img width="1366" height="768" alt="Dashboars Market Property Melbourne" src="https://github.com/user-attachments/assets/0bc428f2-7907-474f-83f1-7d6dfa7f04a0" />
-<a href="https://github.com/jefryramadhan/Tableu-Retail-Dashboard/blob/main/Dashboard%20Sales%20Data%20Online.png">Download Dashboard PNG File</a>
+<a href="https://github.com/jefryramadhan/Data-Analysis--Melbourne-Housing-Dashboard/blob/main/Dashboars%20Market%20Property%20Melbourne.png">Download Dashboard PNG File</a>
 
 ## Project Insight
 1. - Insight: The downward sales trend occured in the middle of the month on the large scale.
