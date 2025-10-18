@@ -1,28 +1,26 @@
-# Data Sales Online Visualization with Interactive Dashboard in Tablaeu
+# Analysis Melbourne Market Property : SQL & Tableau Study Case 
 
 ## Project Objective
-The goal in this project is to build an interactive dashboard and focus on the implementing advanced features for in depth anlysis.
+This project is an end-to-end data analysis study case investigating the Melbourne Housing Market Dataset. The main objectives in this project are to clean raw data using SQL, Analyze key factors effecting property prices. Present insight in an interactive dashboard built using Tableau to provide some business recommendations.
 
 ## Data Used
-- <a href=https://github.com/jefryramadhan/Tableu-Retail-Dashboard/blob/main/Online%20Sales%20Data.csv>Online Sales Data</a>
+- <a href=https://github.com/jefryramadhan/Data-Analysis--Melbourne-Housing-Dashboard/blob/main/Melbourne%20total%20cleaned.csv>Market Housing melbourne Dataset</a>
 
-## Questions (KPIs)
-- What is the total number of sales transactions in Jan - August?
-- what is the total revenue of sales in January - August?
-- How many total products sold in January - August?
-- How many average item/product purchased by customers?
-- Which month did the biggest and lowest sales occur?
-- What is the most sold product?
-- which product category contributes the most to revenue?
+## Business Questions (KPIs)
+This analysis is designed to answear the following business question : 
+- How do average property prices compare beetween region?
+- How do average property prices per room compare beetween region? 
+- Which seller agent is the most succesful based on the number of properties sold?
+- What is the most commonly methode used  in sales?
+- Is there a relationship beetween a property's distances from the city central and it's prices?
 
-## Key Features
-1. Geographical Map : Visualizations of the performs sales per region to identify online sales in the market.
-2. Metric parameter selection : give the flexibility for customers to replace metric (chart) Top Product Ascending beetween "Total Revenue" and "Total Units Sold".
-3. Filter Drill Drown : Implementation of filters based on product categories that enable to analysis more specifically.
-5. <a href="https://public.tableau.com/app/profile/rahmad.jefry.r/viz/salesdata2_17560072553900/Dashboard1?publish=yes">Link Dashboard</a>
+## Tools
+* **Database:** SQL (MySQL)
+* **SQL Client:** DBeaver
+* **Visualisasi:** Tableau Public
 
 ## Dashboard 
-<img width="1208" height="677" alt="Dashboard Sales Data Online" src="https://github.com/user-attachments/assets/e4af6690-213b-46a8-a889-32c1da6a6b94" />
+<img width="1366" height="768" alt="Dashboars Market Property Melbourne" src="https://github.com/user-attachments/assets/0bc428f2-7907-474f-83f1-7d6dfa7f04a0" />
 <a href="https://github.com/jefryramadhan/Tableu-Retail-Dashboard/blob/main/Dashboard%20Sales%20Data%20Online.png">Download Dashboard PNG File</a>
 
 ## Project Insight
@@ -34,4 +32,4 @@ The goal in this project is to build an interactive dashboard and focus on the i
    - Recommendations: filter products ads in specific region such as North America with Electronic ads, Asia Sport/Clothing ads, and Europe with Home Appliances ads.
      
 ## Final Conclusion
-To improve the sales of Supermarket Dailymart, based on the metric market analysis showing a downward sales tren in the middle of the month an instability, therefore the marketing strategic plan will focuses on offering product discount through advertisements to customers in the middle of the month to stabilize market sales trends. Create bundling promotions for product categories that contriute significantly to store revenue such as electronis, home appliances, and clothing. to understand market in various region, create a filter ads to targeted ads for specific region with the products superior in various region.
+
