@@ -24,8 +24,8 @@ This analysis is designed to answear the following business question :
 <a href="https://github.com/jefryramadhan/Data-Analysis--Melbourne-Housing-Dashboard/blob/main/Dashboars%20Market%20Property%20Melbourne.png">Download Dashboard PNG File</a>
 
 ## Project Insight
-1. - Insight: The downward sales trend occured in the middle of the month on the large scale.
-   - Recommendations: send a series "Mid-year-Super Sale" promotional to customers email device, run paid Social Media ads in platform such as Instragram/Facebook during that period, and place discount banner advertisement on the main page product store website with the text "Discount valid for 24 hours!" to create sense of urgency to customers.
+1. - Insight: In metropoitan have a 2 segmen market, the first market is in region eastern & southern are the highest price indicate that avg luxury property on this places, the second segmen market is notheran metropoitan have a lot of more sales indicate the stability of the prices (demand and supply). in victoria nothern & western are region have a affprdabel price property.
+   - Recommendations: make premium advertisement campaign in region eastern & southern metropolitan, in make some discount for the region that have a hoighest unit sales. To investor need to understand to take the highest risk ( eastern and sothern metropoitan) and stabilityty return on  region in victoria and northern metropolitan.
 2. - Insight: Electronic product are the largest contribution revenue, but books and clothing have high sales volumes.
    - Recommendations: On the homepage product store's, offer discount packages for Electronic product and Clothing products together. Provide discount for the Books product category.
 3. - Insight: The largest category product sales in North America are Electronics, in Asia are Sport and Clothing, and Europe are Home Appliances.
