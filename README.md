@@ -26,8 +26,8 @@ This analysis is designed to answear the following business question :
 ## Project Insight
 1. - Insight: In metropoitan have a 2 segmen market, the first market is in region eastern & southern are the highest price indicate that avg luxury property on this places, the second segmen market is notheran metropoitan have a lot of more sales indicate the stability of the prices (demand and supply). in victoria nothern & western are region have a affprdabel price property.
    - Recommendations: make premium advertisement campaign in region eastern & southern metropolitan, in make some discount for the region that have a hoighest unit sales. To investor need to understand to take the highest risk ( eastern and sothern metropoitan) and stabilityty return on  region in victoria and northern metropolitan.
-2. - Insight: Electronic product are the largest contribution revenue, but books and clothing have high sales volumes.
-   - Recommendations: On the homepage product store's, offer discount packages for Electronic product and Clothing products together. Provide discount for the Books product category.
+2. - Insight: Grafik tren in monthly show that the grafik doowngrade in mar-mei in last spring & autumn season, and back to increase in periode july - august indicating that summer season make people more buy property.
+   - Recommendations: For the sales, the best time to advertising property to reach the optimal price for the property sales in july-august. To buyers, the best time to offer the property price is on the mar - april beacuse the data show that the market salow down in this time.
 3. - Insight: The largest category product sales in North America are Electronics, in Asia are Sport and Clothing, and Europe are Home Appliances.
    - Recommendations: filter products ads in specific region such as North America with Electronic ads, Asia Sport/Clothing ads, and Europe with Home Appliances ads.
      
