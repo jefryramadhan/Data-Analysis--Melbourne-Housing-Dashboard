@@ -26,10 +26,10 @@ This analysis is designed to answear the following business question :
 ## Project Insight
 1. - Insight: In metropoitan have a 2 segmen market, the first market is in region eastern & southern are the highest price indicate that avg luxury property on this places, the second segmen market is notheran metropoitan have a lot of more sales indicate the stability of the prices (demand and supply). in victoria nothern & western are region have a affprdabel price property.
    - Recommendations: make premium advertisement campaign in region eastern & southern metropolitan, in make some discount for the region that have a hoighest unit sales. To investor need to understand to take the highest risk ( eastern and sothern metropoitan) and stabilityty return on  region in victoria and northern metropolitan.
-2. - Insight: Grafik tren in monthly show that the grafik doowngrade in mar-mei in last spring & autumn season, and back to increase in periode july - august indicating that summer season make people more buy property.
-   - Recommendations: For the sales, the best time to advertising property to reach the optimal price for the property sales in july-august. To buyers, the best time to offer the property price is on the mar - april beacuse the data show that the market salow down in this time.
-3. - Insight: The largest category product sales in North America are Electronics, in Asia are Sport and Clothing, and Europe are Home Appliances.
-   - Recommendations: filter products ads in specific region such as North America with Electronic ads, Asia Sport/Clothing ads, and Europe with Home Appliances ads.
+2. - Insight: The Graph shows that decline in March - May assume due to the arrival of spring & autumn season, and graph back to increase in periode July - August indicating that summer season make people buy more property.
+   - Recommendations: 1. For the sales, the best time to marketing property's to get the optimal prices is on July-  August in the fisrt . 2. To buyers, the best time to offer the property prices is on March - April beacuse the data shows that the market move slowdown.
+3. - Insight: genarally, property nearest city is have more high price but on this pattern the distances nearest city is not determine the prices, instead there is property have far away  from the city have hoigh price too. So the chart indicating that the region is more influance high and low prices, the chart shows that ine aeach regionhave unique pattern is property have a value in every distance. the conclusionyou can buy the property who have far distance from the city more high or u can buy property in nearest from the city more cheaper.
+   - Recommendations: To agnet sales, have to change strategic differently in each region property like shows the value and the facilities on the region when doing marketing property. 
      
 ## Final Conclusion
 
