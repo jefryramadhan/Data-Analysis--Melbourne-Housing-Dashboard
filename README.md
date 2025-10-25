@@ -21,17 +21,16 @@ This analysis is designed to answear the following business question :
 
 ## Dashboard 
 <img width="1366" height="768" alt="Dashboars Market Property Melbourne" src="https://github.com/user-attachments/assets/0bc428f2-7907-474f-83f1-7d6dfa7f04a0" />
-<a href="https://github.com/jefryramadhan/Data-Analysis--Melbourne-Housing-Dashboard/blob/main/Dashboars%20Market%20Property%20Melbourne.png">Download Dashboard PNG File</a>
+<a href="https://public.tableau.com/app/profile/rahmad.jefry.r/viz/MarketPropertyMelbourneDashboard/Dashboard1?publish=yes">Try My Dashboard</a>
 
 ## Project Insight
-1. - Insight: The are two market patterns in the metropolitan, Southerrn $ Eastern Metropolitan are the luxury market with offering high-end properties. Northern is the densely most populated area in metropolitan with lot of sales at mid range prices (indicates stability of  demand & supply). In outside Metropolitan city, Northern & Western Victoria are the most affordable prices
+1. - Insight: The are two market patterns in the metropolitan, Southerrn $ Eastern Metropolitan are the luxury market with offering high-end properties. Northern is the densely most populated area in metropolitan with lot of sales at mid range prices (indicates stability of  demand & supply). In outside Metropolitan city, Northern & Western Victoria are the most affordable prices.
    - Recommendations:
      - Marketing : Use Premimium ads for Southern & Eastern metropolitan to reach the target audiens. Focus on marketing "Best Value" for Northern metropolitan/victoria to maintain voulme of sales.
      - Investing : The property market in the Southern & Eastern metropolitan offers higher risk, but also higher potential return/profit. On the other hand, Northern & Western Victoria offers stable returns and lower risks.
-2. - Insight: The Graph shows that decline in March - May assume due to the arrival of spring & autumn season, and graph back to increase in periode July - August indicating that summer season make people buy more property.
-   - Recommendations: 1. For the sales, the best time to marketing property's to get the optimal prices is on July-  August in the fisrt . 2. To buyers, the best time to offer the property prices is on March - April beacuse the data shows that the market move slowdown.
-3. - Insight: genarally, property nearest city is have more high price but on this pattern the distances nearest city is not determine the prices, instead there is property have far away  from the city have hoigh price too. So the chart indicating that the region is more influance high and low prices, the chart shows that ine aeach regionhave unique pattern is property have a value in every distance. the conclusionyou can buy the property who have far distance from the city more high or u can buy property in nearest from the city more cheaper.
-   - Recommendations: To agnet sales, have to change strategic differently in each region property like shows the value and the facilities on the region when doing marketing property. 
-     
-## Final Conclusion
-
+2. - Insight: The Graph shows that sales slow down in March - April (Autumn season) adn reach the lowest point in July. The market began to rise significantly in July- August (Late winter/early spring)
+   - Recommendations:
+      - Sellers : The best time to market a property to get the optimal prices is on July -  early August.
+      - Agents : Prepare a massive marketing campaign at the end of winter (July-August) to take advantage of the spring surge (August-September).
+3. - Insight: In general, the farther away from the city, the cheaper the property prices tends to be. But in Melbourne, the looation region of the property is more important. A house located 10KM away in Western metropolitan (Cheaper area) can be much more affordable than a house located 10KM away in Northern metropolitan (luxurious area). Each region its on pricing pattern based on the distance.
+   - Recommendations: To agents, change the strategic to sales property  with  sells the value of the region (facilities, prestige, lifestyle), not just focus on distance of the property where the nearest of the city.
