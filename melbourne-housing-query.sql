@@ -123,3 +123,30 @@ ORDER BY
     total_agentsales DESC
 LIMIT 10;
 
+-- Market Demand Condition in each month
+select 
+ 	case when month(Date) = 1 then "Jan"
+		when month(Date) = 2 then "Feb"
+		when month(Date) = 3 then "March"
+		when month(Date) = 4 then "Apr"
+		when month(Date) = 5 then "May"
+		when month(Date) = 6 then "June"
+		when month(Date) = 7 then "July"
+		when month(Date) = 8 then "Augt"
+		when month(Date) = 9 then "Sep"
+		when month(Date) = 10 then "Oct"
+		when month(Date) = 11 then "Nov"
+		else "Dec"
+	end as monthname, AVG(Price) as average_price, count(*) as total_transaction 
+from melbourne_house_prices
+group by month(Date);
+
+-- How the Distance Influece the price property?
+select 
+	case
+		when distance <=5 then "0-5 km"
+		when distance <=10 then "6-10 km"
+		else ">10 km"
+	end as distance_group, Round(AVG(Price), 0) as average_price, count(*) total_transaction
+from melbourne_house_prices
+group by distance_group;
