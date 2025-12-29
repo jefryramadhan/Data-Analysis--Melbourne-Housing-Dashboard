@@ -27,16 +27,16 @@ This analysis is designed to answear the following business question :
 <a href="https://public.tableau.com/app/profile/rahmad.jefry.r/viz/MarketPropertyMelbourneDashboard/Dashboard1?publish=yes">Try My Dashboard</a>
 
 ## Project Insight
-1. - Insight: The are two market patterns in the metropolitan, Southerrn $ Eastern Metropolitan are the Expensive market with offering high-end properties. Northern is the densely most populated area in metropolitan with lot of sales at mid range prices (indicates stability of  demand & supply). In outside Metropolitan city, Northern & Western Victoria are the most affordable prices.
+1. - Insight: The are two market patterns in the metropolitan, Southerrn & Eastern Metropolitan are the Expensive market with offering high-end properties. Northern is the densely most populated area in metropolitan with lot of sales at mid range prices (indicates stability of  demand & supply). In outside Metropolitan city, Northern & Western Victoria are the most affordable prices.
    - Recommendations:
-     - Marketing : Use Premimium ads for Southern & Eastern metropolitan to reach the target audiens. Focus on marketing "Best Value" for Northern metropolitan/victoria to maintain voulme of sales.
+     - Marketing : Use Premimium ads for Southern & Eastern metropolitan to reach the target audiens. Focus on marketing "Best Value" for Northern metropolitan/victoria to maintain volume of sales.
      - Investing : The property market in the Southern & Eastern metropolitan offers higher risk, but also higher potential return/profit. On the other hand, Northern & Western Victoria offers stable returns and lower risks.
-2. - Insight: The Graph shows that sales slow down in March - April (Autumn season) and reach the peak in July. The market began to rise significantly in July- August (Late winter/early spring)
+2. - Insight: The Graph shows that sales slow down in March - April (Autumn season) and reach the peak in erlier July. The market began to rise significantly in end of July-August (Late winter/early spring)
    - Recommendations:
       - Sellers : The best time to market a property to get the optimal prices is on July -  early August.
       - Agents : Prepare a massive marketing campaign at the end of winter (July-August) to take advantage of the spring surge (August-September).
 3. - Insight: In general, the farther away from the city, the cheaper the property prices tends to be. But in Melbourne, the looation region of the property is more important. A house located 10KM away in Western metropolitan (Cheaper area) can be much more affordable than a house located 10KM away in Northern metropolitan (luxurious area). Each region its on pricing pattern based on the distance.
-   - Recommendations: To agents, change the strategic to sales property  with  sells the value of the region (facilities, prestige, lifestyle), not just focus on distance of the property where the nearest of the city.
+   - Recommendations: To agents, change the strategic to sales property  with  seling the value of the region (facilities, prestige, lifestyle), not just focus on distance of the property where the nearest of the city.
   
 ## Contact Me
 * **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
