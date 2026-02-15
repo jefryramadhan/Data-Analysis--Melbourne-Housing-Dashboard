@@ -17,7 +17,7 @@ This analysis is designed to answear the following business question :
 ## Tools
 * **Database:** SQL (MySQL)
 * **SQL Client:** DBeaver
-* **Visualisasi:** Tableau Public
+* **Visualization:** Tableau Public
 
 ## EDA (SQL)
 <a href="https://github.com/jefryramadhan/Data-Analysis--Melbourne-Housing-Dashboard/blob/main/melbourne-housing-query.sql">See my SQL script to Exploratory & Understanding The Dataset<a/>
